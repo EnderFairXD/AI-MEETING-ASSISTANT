@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de caché y compilación
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Variables de entorno
+.env
+
+# Archivos de audio locales (Para privacidad)
+*.mp3
+*.wav
+*.m4a
