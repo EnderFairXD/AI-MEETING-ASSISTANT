@@ -1,5 +1,7 @@
 # Asistente Inteligente para Reuniones
 
+> **Este proyecto continúa en [suite-ia-local](https://github.com/EnderFairXD/suite-ia-local)**, que junta las cinco herramientas de IA local (contratos, documentación, correo, reuniones y estudio) con código común, tests y soporte para textos largos. Este repositorio queda archivado como referencia.
+
 Aplicación de procesamiento de voz a texto y análisis semántico que funciona 100% en local. Permite transcribir audios de reuniones corporativas mediante `faster-whisper` (optimizada para CPU/RAM) y utilizar un LLM local (`Llama 3.1` vía Ollama) para estructurar el contenido en una minuta oficial, con resumen ejecutivo y tabla de tareas.
 
 ## Requisitos Previos
